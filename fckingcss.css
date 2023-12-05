@@ -20,8 +20,11 @@ body {
     align-items: center;
 }
 
-.phone-text {
+.idk {
     color: white;
+    right: 200px;
+    text-decoration: none;
+    
 }
 
 .nav-item {
@@ -31,6 +34,7 @@ body {
     font-size: 15px;
 
     margin-right: 25px;
+
 }
 
 .header-logo {
@@ -40,12 +44,13 @@ body {
     height: 150px;
     margin-right: 25px;
     margin-left: 25px;
+    right: 15px;
 }
 
 .cart-img {
     position: absolute;
-    top: 270px;
-    right: 310px;
+    top: 267px;
+    right: 527px;
 }
 
 .num {
@@ -57,4 +62,5 @@ body {
 .phone-text {
     font-size: 14px;
     font-weight: 400;
+    top: 250px;
 }
